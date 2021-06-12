@@ -1,6 +1,6 @@
 # Union-Intersection-of-Two-Unsorted-Arrays
 
-Given two unsorted arrays that represent two sets (elements in every array are distinct), find the union and intersection of two arrays.
+Given two Unsorted arrays that represent two sets (elements in every array are distinct), find the union and intersection of two arrays.
 
 For example, if the input arrays are: 
 
